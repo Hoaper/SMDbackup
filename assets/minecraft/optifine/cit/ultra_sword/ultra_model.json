@@ -1,0 +1,38 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "display": {
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 1, 1, 0.8 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1, 1, 0.8 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 40 ],
+            "translation": [ 0, 17, -2 ],
+            "scale": [ 2.8, 2.8, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, -90, -40 ],
+            "translation": [ 0, 17, -1 ],
+            "scale": [ 2.8, 2.8, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 40 ],
+            "translation": [ 0, 13, -1 ],
+            "scale": [ 2.6, 2.6, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, -90, -40 ],
+            "translation": [ 0, 13, -1 ],
+            "scale": [ 2.6, 2.6, 1 ]
+        }
+    }
+}
